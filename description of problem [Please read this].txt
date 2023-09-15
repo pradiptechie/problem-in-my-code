@@ -1,0 +1,15 @@
+================= Problem to encounter =================
+ 
+=> Sir, testmodule ma index.php Single Page App (SPA) interface ho,
+	index_script.js ma SPA ko code xw, jasle nav bar lai different sectionb ma divide garx.
+	
+	aba maile sales.php lai SPA ma integrate garda sales page vitra ko js file work gardain.
+	[eg. add row le kam gardain]
+	
+	but tehi sales.php file xutai run garda mazale work garx.
+
+	sales.php ko js [ie. sales.js] kam garnu parne after integrating in nav bar of main page.
+	
+	Thankyou for your time :)
+
+==========================================================
